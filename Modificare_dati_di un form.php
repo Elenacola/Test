@@ -1,7 +1,3 @@
-
-
-
-
 <?php
 $textfile = fopen("iscritti.txt", "r");
 $textfile_new = fopen("iscritti_new.txt", "a");
